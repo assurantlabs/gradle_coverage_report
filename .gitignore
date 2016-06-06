@@ -8,3 +8,8 @@ build/
 
 
 local.properties
+
+#gradle related:
+.gradle
+!gradle.properties
+!gradle/wrapper/gradle-wrapper.properties
