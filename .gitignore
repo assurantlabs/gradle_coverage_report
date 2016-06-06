@@ -13,3 +13,6 @@ local.properties
 .gradle
 !gradle.properties
 !gradle/wrapper/gradle-wrapper.properties
+
+*.iml
+.idea
